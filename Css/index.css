@@ -82,11 +82,11 @@ header{
 
 /*footer*/
 footer{
-    padding: 20px;
+    padding: 10px;
     margin-top: 760px;
     color: #ffffff;
-    background-color: #35424a;
+    background-color: #192630;
     text-align: center;
     border-top: #e8491d 3px solid;
-    font-size: 28px;
+    font-size: 20px;
   }

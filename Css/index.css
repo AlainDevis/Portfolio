@@ -15,9 +15,12 @@ body{
     margin:auto;
     /*overflow:hidden;*/
   }
-  ul{
+ul{
    margin:0;
    padding:0;
+  }
+.highlight{
+    color:#F7EA1C;
   }
   /*header*/
 header{

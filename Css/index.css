@@ -40,8 +40,13 @@ header{
     text-align: right;
     font-size: 36px;
   }
-/*About me Section*/
+/*About me Section
 #About-me{
+    text-align: center;
+}*/
+.About-me-title{
+    font-size: 28px;
+    color: white;
     text-align: center;
 }
 .box{
@@ -50,7 +55,6 @@ header{
   padding-top: 10px;
   width: 35%;
   margin-left: 40px;
-  text-align: center;
   background-color: #333330;
   margin-bottom: 10px;
   border: 4px solid transparent;
@@ -61,7 +65,7 @@ header{
 /*footer*/
 footer{
     padding: 20px;
-    margin-top: 750px;
+    margin-top: 760px;
     color: #ffffff;
     background-color: #35424a;
     text-align: center;

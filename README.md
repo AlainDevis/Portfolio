@@ -1,11 +1,3 @@
-A project README that includes:
-project or program name
-author name
-description of project
-project setup instructions
-link to live site on GitHub Pages
-copyright and license information
-
 # Portfolio
 #### Karenzi Nshuti Alain Devis
 
@@ -18,3 +10,6 @@ In order to have access on the project you need the following installations:
 * Vs Code
 * Internet
 
+Check The Active pages here https://alaindevis.github.io/Portfolio/
+
+copyright and license information

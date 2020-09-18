@@ -12,4 +12,4 @@ In order to have access on the project you need the following installations:
 
 Check The Active pages here https://alaindevis.github.io/Portfolio/
 
-copyright and license information
+Under the MIT license and copyright.

@@ -1,6 +1,6 @@
 body{
-    /*font-family: :Arial,Helvetica;
-    /font-size: 15px;
+    /*font-family: : YrsaHelvetica;
+    font-size: 15px;
     line-height: 1.5;*/
     /*in one line*/
     font: 15px/1.5 Arial,Helvetica;
@@ -11,11 +11,29 @@ body{
   }
   /*global*/
 .container{
-    width:70%;
+    width:80%;
     margin:auto;
     /*overflow:hidden;*/
   }
   ul{
    margin:0;
    padding:0;
+  }
+  /*header*/
+header{
+    background-image: url("../Images/DSC_7121.jpg");
+    background-repeat: no-repeat;
+    height: 550px;
+    background-size: cover;
+    /*background:#232624;*/
+    color:#ffffff;
+    padding-top:30px;
+    min-height:410px;
+    /*border-bottom:#e8491d 3px solid;*/
+  }
+  header h1{
+    margin: 0;
+    padding-top: 150px;
+    text-align: right;
+    font-size: 36px;
   }
